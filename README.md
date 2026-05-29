@@ -1,14 +1,13 @@
 # Measuring Spatial Injustices_BERTopic Analysis
 Supports: “Measuring spatial injustices: a systematic review of topics, metrics, and normative foundations in applied geography and spatial research” (to be submitted for peer review).
  
-## Abstract/Overview
+## Overview
 The goal of this research is to systematically review applied geographic and spatial science literature on topics of justice, specifically measuring injustices in spatial distributions of benefits and burdens. Using topic modelling with BERTopic, approximately 1,400 peer-reviewed journal articles were analysed as part of the screening process for this review. Additionally, medoid papers were extracted for each topic to be used for qualitative analysis (coding in MaxQDA). This supplement to the paper contains the code for the BERTopic model. 
  
 ## Citation
 Please cite this repository as: DOI/Zenodo
  
 ## Usage
-Quickly explain how to use the code. If a requirement file is not present, include which versions of the packages are to be used.
 - The model can be run as is on Google Colab (using CPU).
 - Load the input file into your Google Drive storage.
 - The output file presents the assignment of papers to topics and medoid selection (papers_with_topics_and_medoids.csv)
