@@ -5,7 +5,7 @@ Supports: “Measuring spatial injustices: a systematic review of topics, metric
 The goal of this research is to systematically review applied geographic and spatial science literature on topics of justice, specifically measuring injustices in spatial distributions of benefits and burdens. Using topic modelling with BERTopic, approximately 1,400 peer-reviewed journal articles were analysed as part of the screening process for this review. Additionally, medoid papers were extracted for each topic to be used for qualitative analysis (coding in MaxQDA). This supplement to the paper contains the code for the BERTopic model. 
  
 ## Citation
-Please cite this repository as: [DOI/Zenodo](https://doi.org/10.5281/zenodo.20447987)
+Please cite this repository as: [https://doi.org/10.5281/zenodo.20447987](https://doi.org/10.5281/zenodo.20447987)
  
 ## Usage
 - The model can be run as is on Google Colab (using CPU).
